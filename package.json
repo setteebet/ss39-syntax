@@ -1,0 +1,18 @@
+{
+  "name": "ss39-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "yiki168✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"yiki168",
+"เว็บหวยออนไลน์",
+"lottovip ไลน์",
+"หวย24ชั่วโมง",
+"lottovip link"
+],
+  "repository": "https://github.com/setteebet/ss39-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
